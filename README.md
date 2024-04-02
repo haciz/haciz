@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @haciz
+- 👋 Hi, I’m @haciz (Stefan)
 - 👀 I’m interested in learning programming, Infrastructure, Cyber Security and ☁️
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? You need to figure it out
+- 🌱 I’m currently learning PowerShell & Go
+- 📫 How to reach me ? You need to figure it out (:
 
 <!---
 haciz/haciz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
